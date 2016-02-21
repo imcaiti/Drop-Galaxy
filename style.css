@@ -1,0 +1,23 @@
+body {
+  font-family: Century Gothic, sans-serif;
+}
+
+body> label {
+  font-size: 20px;
+}
+
+h1 {
+  margin-bottom: 25px;
+}
+
+#dropzone {
+  margin: auto;
+  width: 800px;
+  height: 450px;
+  border: 10px dashed grey;
+  border-radius: 20px;
+ }
+
+body {
+  background-color: lightblue;
+}
